@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="descriotion" content="this is description">
+    <meta name="keyword" content="HTML,HTML tutorial,web development">
+    <meta name="robot" content="INDEX,FOLLOW">
+    <title>link and images</title>
+    <link rel="stylesheet" href="hitesh.css">
+    <script src="hitesh.js"></script>
+</head>
+<body style="background-color:rgba(242, 250, 5,70)"><!--rgb=red,green,blue for change colour of background-->
+    <h1 style="background-color: rgba(255,255,255,30)">hlw</h1>
+    <!--inserting link and image-->
+    <!--her"target=-blank"is used to open the link in new tab-->
+    <a href="https://google.com"target=_blank>go to google</a><b><br>
+    <a href="https://twitter.com" target=_blank>go to twitter </a><i></i><br>
+    <a href="https://amazon.com"target=_blank>go to amazon</a><br>
+    <a href="https://cipherschools.com"target=_blank>go to cipherschool</a><br>
+
+    <sub>its hitesh</sub><br><!--sud=subscript-->
+    <sup> computer science</sup><!--sup=superscript-->
+    
+    
+<!--inserting image-->
+    <img src="https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010__340.jpg"width="100"alt="loding error">
+
+    
+    
+<!--lorem is their for writting an dummb paragraph or senctgence-->
+<p style="color:rgba(250,5,5,50)">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum fugit impedit, vero consequatur, magni et totam deserunt commodi temporibus nulla possimus, optio voluptates voluptas culpa blanditiis dolores omnis. Ratione porro odio expedita veritatis et natus sequi vitae iure consequuntur commodi?ipsum dolor sit amet consectetur, adipisicing elit. Vero quo <strong>this is strong</strong>, delectus expedita iure aspernatur<em> this is emphasized</em> soluta ipsam sed iste ex ad aperiam quia deleniti ducimus praesentium magni ea in facilis.</p>
+
+<p style="color:blue"><em> ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur at animi. Vel expedita animi explicabo rerum debitis fuga quidem et illo modi facere. ipsum dolor, sit amet consectetur adipisicing elit. Facere molestiae officiis vitae at sit nam magnam. Ducimus accusantium minus odio distinctio neque nemo doloribus impedit exercitationem veniam! Ex, reiciendis veniam.</p></em>
+
+
+
+</p>
+<p></p>
+<p>third</p>
+<p>fourth</p>
+<p>fifth</p>
+<p></p>
+</body>
+</html>
